@@ -17,7 +17,7 @@ You can to improve this system function, and send e-mail to me.Thank you！
 
 ## 系统界面
 ![](https://github.com/manxyr/Medical-insurance-service-platform/blob/main/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E8%A5%BF%E8%8D%AF%E8%8D%AF%E5%93%81%E5%90%8D%E5%8D%95.jpg)
-<center>图1 西药药品名单</center><br>
+图1 西药药品名单><br>
 
 ![](https://github.com/manxyr/Medical-insurance-service-platform/blob/main/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95.png)
 <center>图2 用户登录</center><br>
