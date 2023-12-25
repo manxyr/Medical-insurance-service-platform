@@ -21,6 +21,7 @@ You can to improve this system function, and send e-mail to me.Thank you！
 
 ![](https://github.com/manxyr/Medical-insurance-service-platform/blob/main/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95.png)<br>
 <center>图2 用户登录</center><br>
+
 ![](https://github.com/manxyr/Medical-insurance-service-platform/blob/main/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E4%B8%AA%E4%BA%BA%E8%B4%A6%E6%88%B7%E7%95%8C%E9%9D%A2.png)<br>
 <center>图3 进入个人账户界面</center><br>
 
