@@ -20,22 +20,28 @@ You can to improve this system function, and send e-mail to me.Thank you！
 图1 西药药品名单><br>
 
 ![](https://github.com/manxyr/Medical-insurance-service-platform/blob/main/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95.png)
-<center>图2 用户登录</center><br>
+图2 用户登录<br>
 
 ![](https://github.com/manxyr/Medical-insurance-service-platform/blob/main/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E4%B8%AA%E4%BA%BA%E8%B4%A6%E6%88%B7%E7%95%8C%E9%9D%A2.png)<br>
-<center>图3 进入个人账户界面</center><br>
+图3 进入个人账户界面<br>
 
 ![](https://github.com/manxyr/Medical-insurance-service-platform/blob/main/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E7%AE%A1%E7%90%86%E5%91%98%E7%99%BB%E5%BD%95.png)<br>
-<center>图4 管理员账号登录</center><br>
+图4 管理员账号登录<br>
 
-![](https://github.com/manxyr/Medical-insurance-service-platform/blob/main/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E5%8C%BB%E4%BF%9D%E5%8D%A1%E6%9F%A5%E8%AF%A2.png)<center>图5 进入医保卡管理界面</center><br>
+![](https://github.com/manxyr/Medical-insurance-service-platform/blob/main/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E5%8C%BB%E4%BF%9D%E5%8D%A1%E6%9F%A5%E8%AF%A2.png)
+图5 进入医保卡管理界面<br>
 
-![](https://github.com/manxyr/Medical-insurance-service-platform/blob/main/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E5%85%A5%E4%BF%9D%E7%95%8C%E9%9D%A2.png)<center>图6 入保界面</center>
+![](https://github.com/manxyr/Medical-insurance-service-platform/blob/main/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E5%85%A5%E4%BF%9D%E7%95%8C%E9%9D%A2.png)
+图6 入保界面<br>
 
-![](https://github.com/manxyr/Medical-insurance-service-platform/blob/main/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E9%80%80%E4%BF%9D%E7%A1%AE%E8%AE%A4.png)<center>图7 退保界面</center>
+![](https://github.com/manxyr/Medical-insurance-service-platform/blob/main/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E9%80%80%E4%BF%9D%E7%A1%AE%E8%AE%A4.png)
+图7 退保界面<br>
 
-![](https://github.com/manxyr/Medical-insurance-service-platform/blob/main/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E6%8C%82%E5%A4%B1.png)<center>图8 挂失界面</center>
+![](https://github.com/manxyr/Medical-insurance-service-platform/blob/main/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E6%8C%82%E5%A4%B1.png)
+图8 挂失界面<br>
 
-![](https://github.com/manxyr/Medical-insurance-service-platform/blob/main/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E6%90%9C%E7%B4%A2%E8%8D%AF%E5%93%81.jpg)<center>图9 查询药品</center>
+![](https://github.com/manxyr/Medical-insurance-service-platform/blob/main/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E6%90%9C%E7%B4%A2%E8%8D%AF%E5%93%81.jpg)
+图9 查询药品<br>
 
-![](https://github.com/manxyr/Medical-insurance-service-platform/blob/main/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E4%B8%AD%E8%8D%AF%E8%8D%AF%E8%8D%AF%E5%93%81%E5%90%8D%E5%8D%95.jpg)<center>图10 中成药药品名单</center>
+![](https://github.com/manxyr/Medical-insurance-service-platform/blob/main/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E4%B8%AD%E8%8D%AF%E8%8D%AF%E8%8D%AF%E5%93%81%E5%90%8D%E5%8D%95.jpg)
+图10 中成药药品名单<br>
